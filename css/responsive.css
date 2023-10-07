@@ -1,17 +1,17 @@
 @media (max-width: 576px) { 
-    .footer-box{
-        padding: 20px;
+    .footer-icons{
+        padding-top: 15px;
     }
     .footer-icons-item{
-        margin: 10px 20px;
+        margin: 10px 17px;
     }
     .footer-icons-list a{
         font-size: 22px;
     }
  
     .footer-link-list li{
-        padding: 10px;
-        font-size: 15px;
+        padding: 8px;
+        font-size: 13px;
      }
      .logo-heading{
         padding-top: 10px;
